@@ -80,3 +80,21 @@ produces this effect... :point_down:
 
 #### after:
 ![pr after](img/pr-after.png)
+
+
+## Contributing
+
+### Prerequisites
+
+* Install `ncc`:
+  
+  ```console
+  $ npm i -g @vercel/ncc
+  ```
+
+### Building
+
+```console
+$ npm install
+$ npm run build
+```
